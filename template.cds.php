@@ -12,16 +12,16 @@
 <head>
 <?php
 if (!isset($mtg)) {
-	$mtg = array (
-	  'title' => '',
-	  'author' => '',
-	  'description' => '',
-	  'keywords' => '',
-	  'language' => 'English',
-	  'robots' => '',
-	  'city' => '',
-	  'state' => '',
-	);
+    $mtg = array(
+      'title' => '',
+      'author' => '',
+      'description' => '',
+      'keywords' => '',
+      'language' => 'English',
+      'robots' => '',
+      'city' => '',
+      'state' => '',
+    );
 }
 // This is for the sitemap.php, which is why the variables are in php rather than just right in the html
 // Also in the html below you will notice php variables are used out in the open and not enclosed in php tags

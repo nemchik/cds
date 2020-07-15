@@ -57,4 +57,3 @@ This variable should contain the name of your website's
 default page. This variable respects the rules listed above
 for extensions.
 *//*-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-//-/*-*/
-?>
